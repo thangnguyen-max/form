@@ -1,60 +1,60 @@
-/*#formContainer{*/
-/*    font-family:sans-serif;*/
-/*    display: flex;*/
-/*    justify-content: center;*/
-/*    align-items: center;*/
-/*    height: 100vh;*/
-/*    margin:0;*/
-/*}*/
-/*.form{*/
-/*    width : 350px;*/
-/*    padding: 10px;*/
-/*}*/
-/*#login {*/
-/*    text-align: center;*/
-/*    font-weight: bold;*/
-/*    font-size: 35px;*/
-/*    margin-bottom: 10px;*/
-/*}*/
-/*#note{*/
-/*    text-align: center;*/
-/*    font-weight: bold;*/
-/*    font-size: 15px;*/
-/*    color:#999999;*/
-/*    margin-bottom: 60px;*/
-/*}*/
-/*.input {*/
-/*    width: 100%;*/
-/*    padding: 10px;*/
-/*    margin-top: 10px;*/
-/*    margin-bottom: 10px;*/
-/*    border: 1px solid #ccc;*/
-/*    border-radius: 4px;*/
-/*    box-sizing: border-box;*/
-/*    font-size: 15px;*/
-/*}*/
-/*.tittle{*/
-/*    font-size: 14px;*/
-/*}*/
-/*#link{*/
-/*    text-decoration: none;*/
-/*    color: blue;*/
-/*}*/
-/*#submit{*/
-/*    text-align: center;*/
-/*    font-weight: bold;*/
-/*    font-size: 15px;*/
-/*    width: 100%;*/
-/*    background-color: blue;*/
-/*    color: white;*/
-/*    border-radius: 4px;*/
-/*    border: none;*/
-/*    padding: 10px;*/
-/*    margin-top: 10px;*/
-/*}*/
-/*#submit:hover{*/
-/*    background-color: darkblue;*/
-/*}*/
-/*#link:hover{*/
-/*    color: darkblue;*/
-/*}*/
+#formContainer{
+    font-family:sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin:0;
+}
+.form{
+    width : 350px;
+    padding: 10px;
+}
+#login {
+    text-align: center;
+    font-weight: bold;
+    font-size: 35px;
+    margin-bottom: 10px;
+}
+#note{
+    text-align: center;
+    font-weight: bold;
+    font-size: 15px;
+    color:#999999;
+    margin-bottom: 60px;
+}
+.input {
+    width: 100%;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    font-size: 15px;
+}
+.tittle{
+    font-size: 14px;
+}
+#link{
+    text-decoration: none;
+    color: blue;
+}
+#submit{
+    text-align: center;
+    font-weight: bold;
+    font-size: 15px;
+    width: 100%;
+    background-color: blue;
+    color: white;
+    border-radius: 4px;
+    border: none;
+    padding: 10px;
+    margin-top: 10px;
+}
+#submit:hover{
+    background-color: darkblue;
+}
+#link:hover{
+    color: darkblue;
+}
